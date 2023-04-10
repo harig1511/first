@@ -1,0 +1,2 @@
+echo "this is sample file 2"
+echo "this is to verfy the second example"
